@@ -1,0 +1,7 @@
+Amazon Echo is a smart speaker developed by Amazon.
+It uses Alexa voice assistant to perform tasks such as playing music, controlling smart home devices, and answering questions.
+
+Amazon Echo supports Wi-Fi and Bluetooth connectivity.
+Users can control Echo using voice commands starting with "Alexa".
+
+If Echo is not responding, ensure it is connected to the internet and powered on.
